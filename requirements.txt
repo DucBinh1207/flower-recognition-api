@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+tensorflow
+h5py
+pillow
+numpy
